@@ -1,0 +1,22 @@
+.collections{
+    display: grid;
+    gap:1px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    padding: 10px;
+    margin-left: 15px;
+
+}
+.newcollection-div{
+    width: 350px;
+    margin-top: 20px;
+
+}
+.collection-head{
+    margin-left: 70px;
+}
+hr{
+    width: 250px;
+    
+    margin: auto;
+}
